@@ -1,5 +1,7 @@
 # cdversion-maven-extension
 
+[![CircleCI](https://circleci.com/gh/IG-Group/cdversion-maven-extension.svg?style=svg)](https://circleci.com/gh/IG-Group/cdversion-maven-extension)
+
 ## Usage
 
 Add a file to the project root called `.mvn/extensions.xml`. 
